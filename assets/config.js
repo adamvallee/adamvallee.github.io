@@ -13,16 +13,7 @@ let config = {
       "URL": "https://github.com/adamvallee",
       "icon_classes": "fab fa-github",
     },
-    {
-      "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
-      "icon_classes": "fab fa-itch-io"
-    },
-    {
-      "Title": "Blog",
-      "URL": "blog-test",
-      "icon_classes": "fas fa-blog"
-    },
+
     {
       "Title": "Twitter",
       "URL": "https://twitter.com/avallee",
