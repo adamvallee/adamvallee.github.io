@@ -5,7 +5,7 @@ let config = {
   "links": [
     {
       "Title": "ZedSocial.ca",
-      "URL": "https://zedsocial.ca/@av",
+      "URL": "https://zedsocial.ca/@av" rel="me",
       "icon_classes": "fab fa-mastodon",
     },
     {
