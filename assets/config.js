@@ -13,7 +13,11 @@ let config = {
       "URL": "https://github.com/adamvallee",
       "icon_classes": "fab fa-github",
     },
-
+    {
+      "Title": "ZedSocial.ca",
+      "URL": "https://zedsocial.ca/@av",
+      "icon_classes": "fab fa-mastodon",
+    },
     {
       "Title": "Twitter",
       "URL": "https://twitter.com/avallee",
