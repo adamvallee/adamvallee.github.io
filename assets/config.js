@@ -13,11 +13,6 @@ let config = {
       "URL": "https://github.com/adamvallee",
       "icon_classes": "fab fa-github",
     },
-    #{
-    #  "Title": "Play Store",
-    #  "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
-    #  "icon_classes": "fab fa-google-play"
-    #},
     {
       "Title": "PC Games",
       "URL": "https://harindulk.itch.io/",
