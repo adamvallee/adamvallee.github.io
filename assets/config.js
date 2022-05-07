@@ -4,7 +4,12 @@ let config = {
   "Description": "My Links",
   "links": [
     {
-      "Title": "Website",
+      "Title": "ZedSocial.ca",
+      "URL": "https://zedsocial.ca/@av",
+      "icon_classes": "fab fa-mastodon",
+    },
+    {
+      "Title": "AdamDavid.ca",
       "URL": "http://www.adamdavid.ca",
       "icon_classes": "fas fa-link",
     },
@@ -14,12 +19,7 @@ let config = {
       "icon_classes": "fab fa-github",
     },
     {
-      "Title": "ZedSocial.ca",
-      "URL": "https://zedsocial.ca/@av",
-      "icon_classes": "fab fa-mastodon",
-    },
-    {
-      "Title": "Twitter",
+      "Title": "Twitter @avallee",
       "URL": "https://twitter.com/avallee",
       "icon_classes": "fab fa-twitter"
     },
@@ -29,7 +29,7 @@ let config = {
       "icon_classes": "fab fa-linkedin"
     },
     {
-      "Title": "Youtube",
+      "Title": "Youtube Channel",
       "URL": "https://www.youtube.com/channel/UC4wqi8QDc0dm7JDe1xZ5WoA",
       "icon_classes": "fab fa-youtube"
     },
